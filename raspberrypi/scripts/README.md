@@ -8,4 +8,4 @@ chmod +x _sample_script.sh
 
 ## List of scripts for Raspberry pi
 
-* display and refresh processor temperature
+* [display and refresh processor temperature](/temperature)

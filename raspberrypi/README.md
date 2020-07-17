@@ -1,6 +1,6 @@
 # Raspberry Pi
 
-## Raspberry Pi OS
+## Raspberry Pi OS (former Raspbian)
 
-* commands
-* scripts
+* [commands](/scripts)
+* [scripts](commands.md)
