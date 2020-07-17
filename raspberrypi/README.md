@@ -3,4 +3,4 @@
 ## Raspberry Pi OS (former Raspbian)
 
 * [commands](commands.md)
-* [scripts](/scripts)
+* [scripts](/raspberrypi/scripts)
