@@ -2,7 +2,7 @@
 
 brew install $(cat formulas.txt)
 
-
+# BEGIN JAVA SETTINGS
 
 # For the system Java wrappers to find this JDK, symlink it with
 sudo ln -sfn /usr/local/opt/openjdk@11/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk-11.jdk
@@ -16,3 +16,5 @@ echo 'export PATH="/usr/local/opt/openjdk@11/bin:$PATH"' >> ~/.bash_profile
 
 # Set JAVA_HOME. The idea is to keep it to the latest LTS, or the same version listed in the formulas.txt
 echo 'export JAVA_HOME=$(/usr/libexec/java_home -v11)' >> ~/.bash_profile
+
+#END JAVA SETTINGS
