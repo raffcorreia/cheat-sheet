@@ -8,7 +8,6 @@ intellij-idea
 dbeaver-community
 arduino
 cubicsdr
-docker
 firefox
 hex-fiend
 kdiff3
@@ -16,3 +15,4 @@ postman
 skype
 teamviewer
 vlc
+--cask docker
