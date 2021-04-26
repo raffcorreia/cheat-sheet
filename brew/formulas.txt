@@ -6,13 +6,13 @@ node
 visual-studio-code
 intellij-idea
 dbeaver-community
-arduino
-cubicsdr
-firefox
-hex-fiend
-kdiff3
 postman
+kdiff3
+hex-fiend
+firefox
 skype
 teamviewer
 vlc
+arduino
+cubicsdr
 --cask docker
