@@ -17,3 +17,8 @@ chmod +x _sample_script.sh
 ## List of scripts for Raspberry pi
 
 * [display and refresh processor temperature](/raspberrypi/scripts/temperature)
+
+## Install current java for ARM
+```sh
+sudo apt install default-jdk
+```
