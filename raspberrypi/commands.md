@@ -2,6 +2,29 @@
 
 ## Raspberry Pi OS
 
+### Setup
+
+#### Enable SSH
+
+Insert SD into another computer and create a file called `ssh` in the `boot` volume. On mac;
+
+```shell
+touch /Volumes/boot/ssh
+```
+
+#### Install default java JDK for ARM
+
+Update apt
+
+```sh
+sudo apt update
+```
+
+Install
+```sh
+sudo apt install default-jdk
+```
+
 ### Commands
 
 Shutdown Raspberry pi
