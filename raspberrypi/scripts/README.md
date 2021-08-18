@@ -19,6 +19,7 @@ chmod +x _sample_script.sh
 * [display and refresh processor temperature](/raspberrypi/scripts/temperature)
 
 ## Install current java for ARM
+
 ```sh
 sudo apt install default-jdk
 ```
