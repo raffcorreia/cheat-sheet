@@ -22,3 +22,11 @@ copy all files in the folder from local to remote computer
 ```sh
 scp -r _source_path_/ pi@_address_:_dest_path_
 ```
+
+## SSH with public key
+
+* [To use SSH without entering password every time](ssh-public-key.md)
+
+## Install GIT Server
+
+* [Setup a private GIT server](git-server.md)
